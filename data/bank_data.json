@@ -1,0 +1,54 @@
+{
+  "2147483647": {
+    "accountNumber": "2147483647",
+    "customerName": "Aashish Bhaskar",
+    "balance": 390.0,
+    "transactions": [
+      {
+        "type": "DEPOSIT",
+        "amount": 130.0,
+        "dateTime": "2025-12-07T17:58:00.9921058"
+      },
+      {
+        "type": "DEPOSIT",
+        "amount": 300.0,
+        "dateTime": "2025-12-07T20:23:06.077743"
+      },
+      {
+        "type": "WITHDRAW",
+        "amount": 40.0,
+        "dateTime": "2025-12-08T19:27:35.0421386"
+      }
+    ],
+    "passwordHash": "/wWBL6kD/m+WwgCSJsZOrv6lmFDOD17pxNBENuNdopo\u003d",
+    "pin": "2345",
+    "isLocked": false
+  },
+  "12345678901": {
+    "accountNumber": "12345678901",
+    "customerName": "Harsh Raj",
+    "balance": 170.0,
+    "transactions": [
+      {
+        "type": "DEPOSIT",
+        "amount": 200.0,
+        "dateTime": "2025-12-07T18:01:24.8749718"
+      },
+      {
+        "type": "WITHDRAW",
+        "amount": 30.0,
+        "dateTime": "2025-12-07T18:01:38.9622618"
+      }
+    ],
+    "isLocked": false
+  },
+  "1868570862": {
+    "accountNumber": "1868570862",
+    "customerName": "Shiva",
+    "balance": 0.0,
+    "transactions": [],
+    "passwordHash": "s//AXrygZ5DEXd5fo7ByGKn3qLgORL3x8NQuwqTtLEc\u003d",
+    "pin": "1234",
+    "isLocked": false
+  }
+}
